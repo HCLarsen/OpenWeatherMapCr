@@ -1,5 +1,7 @@
 # Crystal Open Weather Map Interface
 
+## Deprecated: This shard has been deprecated in favour of my newer [owm.cr](https://github.com/HCLarsen/owm.cr)
+
 A Crystal interface for the Open Weather Map API. Currently, this library supports all the options available to Free Accounts, with the exception of Weather Map Layers.
 
 ## Installation
